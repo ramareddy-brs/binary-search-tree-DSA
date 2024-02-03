@@ -164,6 +164,27 @@ header p {
     color: #055BA6;
 
 }
+ 
+#output {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  input {
+    padding: 8px;
+    margin: 10px 0;
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #4caf50;
+    color: white;
+  }
+  
 
 /* Sticky footer styles
   -------------------------------------------------- */
